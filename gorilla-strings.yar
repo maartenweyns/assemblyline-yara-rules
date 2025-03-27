@@ -1,4 +1,4 @@
-rule gorilla-strings
+rule gorillastrings
 {
     strings:
         $gorilla_string = "gorilla botnet is on the device"
